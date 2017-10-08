@@ -1,4 +1,4 @@
-#Blue Buttons Set - Extended#
+#Blue Buttons Set - Extended
 
 In our main page [buttons set](https://www.reddit.com/r/CamgirlLiveEditor/wiki/buttons) we've added a few buttons  to help us style-up some download links available on our subreddit.
 
@@ -7,7 +7,7 @@ In our main page [buttons set](https://www.reddit.com/r/CamgirlLiveEditor/wiki/b
 
 ***
 
-##Blue Buttons v0.1.1##
+##Blue Buttons v0.1.1
 
 This is the extended version of this addon with more buttons and background color change on hover.
 
