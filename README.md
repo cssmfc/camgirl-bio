@@ -104,6 +104,6 @@ Change color - true [Snapchat Button](https://# "snapchatbw snapchatorigin")
 `[Snapchat Button](https://# "snapchatbw snapchatorigin")`
 
 ***
-**[Download CSS Markup from Pastebin](https://pastebin.com/Jwc9dTS1 "zipb")**
+**[Download CSS Markup from Github - raw](https://raw.githubusercontent.com/cssmfc/reddit/master/css "zipb")**
 
 **[Download Sprite image from Github](https://raw.githubusercontent.com/cssmfc/reddit/master/btns.png "photo")**
