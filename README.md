@@ -1,4 +1,5 @@
-#Blue Buttons Set - Extended
+Blue Buttons Set - Extended
+==============================
 
 In our main page [buttons set](https://www.reddit.com/r/CamgirlLiveEditor/wiki/buttons) we've added a few buttons  to help us style-up some download links available on our subreddit.
 
@@ -7,7 +8,8 @@ In our main page [buttons set](https://www.reddit.com/r/CamgirlLiveEditor/wiki/b
 
 ***
 
-#Blue Buttons v0.1.1
+Blue Buttons v0.1.1
+==============================
 
 This is the extended version of this addon with more buttons and background color change on hover.
 
@@ -104,6 +106,11 @@ Change color - true [Snapchat Button](https://# "snapchatbw snapchatorigin")
 `[Snapchat Button](https://# "snapchatbw snapchatorigin")`
 
 ***
-**[Download CSS Markup from Github - raw](https://raw.githubusercontent.com/cssmfc/reddit/master/css "zipb")**
 
-**[Download Sprite image from Github](https://raw.githubusercontent.com/cssmfc/reddit/master/btns.png "photo")**
+Resourced
+==============================
+You can download the entire browser-based [demo](https://github.com/cssmfc/reddit/tree/master/bbuttons_v01) with all documentation or bits and pieces below
+
+**[Download CSS Markup from Github - raw](https://raw.githubusercontent.com/cssmfc/reddit/master/css)
+
+**[Download Sprite image from Github](https://raw.githubusercontent.com/cssmfc/reddit/master/btns.png)
