@@ -1,4 +1,4 @@
-Blue Buttons Set - Extended
+Reddit Addon - Blue Buttons Set - Extended
 ==============================
 
 In our main page [buttons set](https://www.reddit.com/r/CamgirlLiveEditor/wiki/buttons) we've added a few buttons  to help us style-up some download links available on our subreddit.
@@ -111,6 +111,6 @@ Resourced
 ==============================
 You can download the entire browser-based [demo](https://github.com/cssmfc/reddit/tree/master/bbuttons_v01) with all documentation or bits and pieces below
 
-**[Download CSS Markup from Github - raw](https://raw.githubusercontent.com/cssmfc/reddit/master/css)
+**[Download CSS Markup from Github - raw)](https://raw.githubusercontent.com/cssmfc/reddit/master/css)**
 
-**[Download Sprite image from Github](https://raw.githubusercontent.com/cssmfc/reddit/master/btns.png)
+**[Download Sprite image from Github](https://raw.githubusercontent.com/cssmfc/reddit/master/btns.png)**
