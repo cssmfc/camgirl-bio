@@ -1,7 +1,7 @@
 # CAMGIRL BIOS
 **Custom designs, profiles and resources for webcam performers provided by [Camgirl.Cloud](https://camgirl.cloud/editor/)**
 
-![Camgirl.Cloud - Cover](https://cgc-dan.github.io/cgc-designers/assets/cgc.jpg)
+![Camgirl.Cloud - Cover](https://raw.githubusercontent.com/cssmfc/camgirl-bio/master/assets/camgirlcloud_header.gif)
 
 
 **Need to get in touch with us?**
