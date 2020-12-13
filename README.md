@@ -22,5 +22,8 @@
  - Directory listings; as a registered member of CGC, you have a free subdomain and ways to get traffic
 
 
+## Get involved
+Open [discussions here](https://github.com/cssmfc/camgirl-bio/discussions). Take your time and engage with us if you feel comfortable enough
+
 **Need to get in touch with us?**
 feel free to use the [contact form](https://camgirl.cloud/contact/) from our main website or on [twitter](https://twitter.com/CamgirlCloud) | [Discord Channel](https://discord.gg/2XvqfsJ)
